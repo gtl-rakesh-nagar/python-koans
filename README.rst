@@ -1,5 +1,7 @@
+============
+Python Koans
+============
 
-# python-koans
 Python koans submission by Rakesh Nagar
 # Koans pending
 - Little bit of AboutTriangleProject2
@@ -7,10 +9,6 @@ Python koans submission by Rakesh Nagar
 - TelevisionTest
 - AboutExtraCredit
 - AboutRegex
-
-============
-Python Koans
-============
 
 .. image:: https://user-images.githubusercontent.com/2614930/28401740-ec6214b2-6cd0-11e7-8afd-30ed3102bfd6.png
 
